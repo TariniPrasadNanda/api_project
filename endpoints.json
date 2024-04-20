@@ -1,0 +1,5 @@
+{
+    "base_url": "https://dummyjson.com",
+    "token_url": "/auth/login",
+    "products": "/products"
+}
